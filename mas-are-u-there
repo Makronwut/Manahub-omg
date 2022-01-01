@@ -1,7 +1,7 @@
 getgenv().Name = game.Players.LocalPlayer.Name
 if 
 getgenv().Name == "L1ZO" or
-getgenv().Name == "L1ZOT"
+getgenv().Name == "L1ZOT1"
 then
 else
     game.Players.LocalPlayer:Kick("\n Not Whitelisted \n ):<")
