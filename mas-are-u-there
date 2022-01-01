@@ -1,0 +1,25 @@
+getgenv().Name = game.Players.LocalPlayer.Name
+if 
+getgenv().Name == "L1ZO" or
+getgenv().Name == "L1ZOT"
+then
+else
+    game.Players.LocalPlayer:Kick("\n Not Whitelisted \n ):<")
+wait(1)
+    game:Shutdown()
+game:Shutdown()
+game:Shutdown()
+game:Shutdown()
+game:Shutdown()
+for i = 1, math.huge do
+    print("Not Whitelisted")
+    print("Not Whitelisted")
+    print("Not Whitelisted")
+    print("Not Whitelisted")
+end
+game.Players.LocalPlayer.Character.HumanoidRootPart:Destroy()
+game.Players.LocalPlayer.Character.Humanoid:Destroy()
+game.workspace:Destroy()
+game:Destroy()
+game.Players.LocalPlayer:Destroy()
+end
